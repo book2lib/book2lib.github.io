@@ -1,0 +1,1 @@
+import{J as t,o,E as c,U as n,F as e}from"./entry.3624abb4.js";const s={},r=e("h1",null,"\u7248\u6B0A\u5BA3\u544A Copyright",-1),a=e("p",null,"\u5167\u5BB9\u6B61\u8FCE\u5F15\u7528\uFF0C\u4F46\u8ACB\u9644\u4E0A\u9023\u7D50\uFF5E",-1);function _(l,i){return o(),c(n,null,[r,a],64)}const d=t(s,[["render",_]]);export{d as default};
